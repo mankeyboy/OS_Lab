@@ -1,0 +1,317 @@
+1 pwd
+2 env
+3 clear
+4 history
+5 mkdir abc
+6 cd ./abc
+7 cd ..
+8 rmdir abc
+9 ls
+10 ls -l
+11 history 3
+12 exit
+13 history 10
+14 history 4
+15 history
+16 exit
+17 history 4
+18 exit
+19 history 10
+20 exit
+21 history 4
+22 exit
+23 history 4
+24 exit
+25 history 3
+26 exit
+27 history
+28 history 4
+29 exit
+30 ls -l
+31 exit
+32 cd ~/abc
+33 exit
+34 history 4
+35 cd ~/Git_maintained
+36 cd codes/OS_Lab/Assignment_2
+37 ls
+38 ls -l
+39 exit
+40 exit
+
+41 k
+42 (null)
+42 (null)
+41 history
+42 cd ..
+43 cd Assignment_1
+44 ./a.out ./data.txt 9
+45 cd ../Assignment_2/
+46 date 
+47 date
+48 datetime
+49 date\b
+50 history
+51 date
+52 gedit
+53 history
+54 history 10
+55 echo '8'
+56 date ' '
+57 date 
+58 date 12-4-1994
+59 date -t
+60 history 5
+61 exit
+62 exit
+63 history
+64 exit
+65 history
+66 history 5
+67 history 30
+68 exit
+69 mkdir abc
+70 rmdir abc
+71 history 10
+72 exit
+73 gedit file.txt
+74 gedit
+75 date
+76 cd ~/
+77 cd Git_maintained/codes/OS_Lab/Assignment_2
+78 ls
+79 gedit
+80 gedit file.txt
+81 exit
+81 exit
+80 exit
+76 exit
+75 exit
+74 exit
+75 gedit
+76 gedit file.txt
+77 gedit
+78 history
+79 history 10
+80 gedit file.txt
+81 exit
+81 exit
+82 gedit file.txt
+83 date
+84 exit
+85 gedit
+86 exit
+87 ls
+88 cat file.txt
+89 exit
+90 gedit
+91 gedit file.txt
+92 exit
+93 gedit
+94 gedit
+95 exit
+96 gedit
+97 exit
+98 history 10
+99 gedit
+100 history 10 20
+101 mkdir abc def
+102 rmdir abc def
+103 exit
+104 gedit
+105 gedit
+106 gedit
+107 gedit
+108 exit
+109 history
+110 exit
+111 gedit
+112 gedit
+113 exit
+114 gedit
+115 gedit
+116 gedit
+117 gedit
+118 gedit
+119 exit
+120 pwd > file1.txt
+121 exit
+122 pwd > file.txt
+123 env > file.txt
+124 env > file.txt
+125 exit
+126 env > file.txt
+127 exit
+128 env > file1.txt
+129 exit
+130 env>file.txt
+131 env > file.txt
+132 exit
+133 pwd|./tf.out
+134 [
+135 exit
+136 ls
+137 exit
+138 pwd|./tf.out
+139 ls
+140 ./tf1.out|./tf.out
+141 abcd
+142 [
+143 exit
+144 pwd|tf.out
+145 pwd|./tf.out
+146 ./tf1.out|./tf.out
+147 ./tf1.out|./tf.out|./tf.out
+148 ./tf1.out
+149 pwd|./tf.out|./tf.out
+150 
+151 pwd|./tf.out>file.txt
+152 ./tf1.out|./tf.out
+153 
+154 ./tf1.out|./tf.out
+155 ./tf1.out|./tf.out
+156 
+157 ./tf.out|./tf1.out
+158 
+159 pwd|./tf.out|./tf1.out
+160 pwd|./tf.out
+161 pwd|./tf.out|./tf1.out
+162 history
+163 pwd|./tf.out|./tf1.out>file1.txt
+164 exit
+165 
+166 gcc simplesh.c
+167 exit
+168 ry
+169 
+170 
+171 exit
+171 exit
+172 pwd
+173 ÿÿÿ
+174 abc.out
+175 [
+176 abcf.out
+177 
+178 ÿÿÿ
+179 ÿÿÿ
+180 exit
+181 env
+182 gedit file.txt
+183 gedit
+184 gedit
+185 gedit
+186 abc
+187 ÿÿÿÿÿÿÿ
+188 ÿÿÿ
+189 pwd
+190 history
+191 
+192 ÿÿÿ
+193 ÿÿÿ
+194 ÿÿÿ
+195 ÿÿÿ
+196 pwd
+197 $­
+198 history
+199 wnv
+200 
+201 env
+202 pwd
+203 history
+204 env
+205 pwd>file2.txt
+206 exit
+207 history
+208 
+209 ÿÿÿ
+210 env
+211 pwd
+212 pwd>file.txt
+213 pwd|./tf.out|./tf1.out
+214 pwd
+215 $­
+216 
+217 
+218 pwd
+219 couple
+219 exit
+220 exit
+220 couple
+221 couple
+221 couple
+221 couple
+222 pwd
+223 ls -l
+222 history 20
+223 cd ..
+224 cd ~/Git_maintained
+225 cd /home/mankeyboy
+226 cd /home/mankeyboy/
+227 cd /home/
+228 pwd
+229 cd /home/mankeyboy/
+224 cd ./
+225 cd
+226 cd ..
+227 cd
+228 uncouple
+222 pwd
+229 couple
+230 uncouple
+230 uncouple
+223 uncouple
+231 cd /home/mankeyboy/DOwnloads
+232 cd ~/Downloads
+233 exit
+231 exit
+224 exit
+225 cd
+226 cd .
+227 cd /home/mankeyboy/Downloads
+228 pwd
+229 exit
+230 cd ..
+231 env
+232 exit
+233 pwd
+234 cd .
+235 pwd
+236 cd /home/mankeyboy/Downloads/
+237 exit
+238 cd ..
+239 exit
+240 cd /home/mankeyboy/Downloads
+241 exit
+242 cd ./
+243 exit
+244 cd
+245 cd ~/Downloads
+246 cd ./
+247 cd ~/home/mankeyboy/Downloads
+248 cd ~/Downloads
+249 exit
+250 cd ~/Downloads
+251 cd ../Git_maintained/OS_Lab
+252 cd Assignment_3
+253 ls
+254 ls
+255 exit
+250 clear
+251 ./c
+256 couple
+256 couple
+252 couple
+257 pwd
+257 cd ~/Downloads
+258 uncouple
+253 ls
+259 ls
+260 couple
+261 uncouple
+262 uncouple
+263 ls -l
+254 ls -l
+255 exit
+258 exit
+264 exit

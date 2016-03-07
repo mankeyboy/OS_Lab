@@ -1,0 +1,87 @@
+PID: 21571
+Response Time
+ seconds 0
+micro seconds 39
+Wait Time 
+ seconds 0
+micro seconds  1235
+Turnaround Time:  
+seconds28
+micro seconds 254569
+ response time  :3.9e-05
+ wait time  :0.001235
+ turnaround time  : 28.2546
+PID: 21583
+Response Time
+ seconds 0
+micro seconds 39
+Wait Time 
+ seconds 0
+micro seconds  1331
+Turnaround Time:  
+seconds0
+micro seconds 179
+ response time  :3.9e-05
+ wait time  :0.001331
+ turnaround time  : 0.000179
+PID: 21593
+Response Time
+ seconds 0
+micro seconds 39
+Wait Time 
+ seconds 0
+micro seconds  1854
+Turnaround Time:  
+seconds48
+micro seconds 201429
+ response time  :3.9e-05
+ wait time  :0.001854
+ turnaround time  : 48.2014
+PID: 21603
+Response Time
+ seconds 0
+micro seconds 39
+Wait Time 
+ seconds 0
+micro seconds  1876
+Turnaround Time:  
+seconds0
+micro seconds 116
+ response time  :3.9e-05
+ wait time  :0.001876
+ turnaround time  : 0.000116
+Average Response: seconds 0
+micro seconds39
+ Average Wait seconds: 0
+micro seconds1574
+ Average Turnaround seconds: 19
+microseconds 114073
+ Average Response  :3.9e-05
+  Average Wait : 0.001574
+  Average Turnaround : 19.1141
+PID: 21820
+Response Time
+ seconds 0
+micro seconds 36
+Wait Time 
+ seconds 0
+micro seconds  1447
+Turnaround Time:  
+seconds1
+micro seconds 386
+ response time  :3.6e-05
+ wait time  :0.001447
+ turnaround time  : 1.00039
+PID: 3889
+Response Time
+ seconds 0
+micro seconds 21
+Wait Time 
+ seconds 0
+micro seconds  692
+Turnaround Time:  
+seconds54
+micro seconds 5591
+ response time  :2.1e-05
+ wait time  :0.000692
+ turnaround time  : 54.0056

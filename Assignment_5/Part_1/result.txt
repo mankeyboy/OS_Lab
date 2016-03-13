@@ -1,0 +1,54 @@
+Prob : 0.1
+q1 produced = 20
+q2 produced = 21
+q1 consumed = 20
+q2 consumed = 21
+
+prob : 0.2
+
+q1 produced = 15
+q2 produced = 15
+q1 consumed = 14
+q2 consumed = 11
+
+prob : 0.3
+
+q1 produced = 24
+q2 produced = 20
+q1 consumed = 21
+q2 consumed = 19
+
+prob : 0.4
+
+q1 produced = 17
+q2 produced = 26
+q1 consumed = 17
+q2 consumed = 24
+
+prob : 0.5
+
+q1 produced = 19
+q2 produced = 17
+q1 consumed = 19
+q2 consumed = 15
+
+prob : 0.6
+
+q1 produced = 25
+q2 produced = 21
+q1 consumed = 22
+q2 consumed = 19
+
+prob : 0.7
+
+q1 produced = 30
+q2 produced = 25
+q1 consumed = 23
+q2 consumed = 25
+
+prob : 0.8
+
+q1 produced = 45
+q2 produced = 46
+q1 consumed = 45
+q2 consumed = 40

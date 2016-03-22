@@ -27,6 +27,7 @@
 #include <errno.h>
 #include <sys/time.h>
 #include <sys/sem.h>
+#include <sys/shm.h>
 
 using namespace std;
 

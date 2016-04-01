@@ -56,7 +56,7 @@ typedef struct msg request_data;
 
 typedef struct transact_data
 {
-    struct timeval t_trans;
+    time_t t_trans;
     int client_pid;
     int amnt;
     int dep_or_withdraw;

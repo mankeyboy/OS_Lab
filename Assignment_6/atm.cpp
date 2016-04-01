@@ -138,16 +138,16 @@ int global_consistency()
                 // client_buf.request.ret_type = master_buf.request.ret_type;
                 client_buf.request = master_buf.request;
                 // cout<<"Returned client req: "<<client_buf.request.ret_type<<" || Returned master req: "<<master_buf.request.ret_type<<endl;
-                if(local_consistency() == 0 )
-                {
-                    client_buf.request.balance = bal;
+                // if(local_consistency() == 0 )
+                // {
+                //     client_buf.request.balance = bal;
+                //     return 1;
+                // }
+                // else
+                // {
+                //     client_buf.request.balance = bal;
                     return 1;
-                }
-                else
-                {
-                    client_buf.request.balance = bal;
-                    return 1;
-                }
+                // }
             }
             else return 0;
         }
